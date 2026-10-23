@@ -1,0 +1,58 @@
+[
+    {
+        "question": "What courses are available?",
+        "answer": "Our college offers undergraduate courses. Please check the official college website for the complete list."
+    },
+    {
+        "question": "How can I apply for admission?",
+        "answer": "You can contact the college admission office for details about the admission process."
+    },
+    {
+        "question": "What are the college timings?",
+        "answer": "Please check the official college timetable for the latest timings."
+    },
+    {
+        "question": "What is the fee structure?",
+        "answer": "Please contact the college office for the latest fee details."
+    },
+    {
+        "question": "How can I contact the college?",
+        "answer": "Please visit the official college website to find contact information."
+    },
+    {
+        "question": "Where is the college located?",
+        "answer": "Please check the official college website for the college address."
+    },
+    {
+        "question": "What documents are required for admission?",
+        "answer": "Please contact the admission office to confirm the required documents."
+    },
+    {
+        "question": "Does the college provide placements?",
+        "answer": "Please contact the college placement cell for information about placement opportunities."
+    },
+    {
+        "question": "Hello",
+        "answer": "Hello! Welcome to the College FAQ Chatbot. How can I help you?"
+    },
+    {
+        "question": "Thank you",
+        "answer": "You're welcome! Have a great day."
+    },
+    {
+        "question": "When does the academic year begin?",
+        "answer": "Please check the official college academic calendar for the start date."
+    },
+    {
+        "question": "Is there a placement cell?",
+        "answer": "Please contact the college placement cell for details about placement support."
+    },
+    {
+        "question": "How do I get a bonafide certificate?",
+        "answer": "Please contact the college office to learn how to apply for a bonafide certificate."
+    },
+    {
+        "question": "Does the college have a library?",
+        "answer": "Please check the official college website for information about library facilities."
+    }
+]
